@@ -1,7 +1,8 @@
-1 low
 for practice
+2 low
 more practice
 git add
 git commit
 git status
 git diff
+for check
