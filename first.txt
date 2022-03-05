@@ -1,5 +1,4 @@
 for practice
-2 low
 more practice
 git add
 git commit
