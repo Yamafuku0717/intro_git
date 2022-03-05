@@ -3,3 +3,4 @@ for practice
 more practice
 git add
 git commit
+git status
